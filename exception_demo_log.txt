@@ -1,0 +1,5 @@
+Error: Cannot divide by zero
+Division operation completed
+
+--- Generic Exception Demo ---
+A generic exception occurred: invalid literal for int() with base 10: 'xyz'

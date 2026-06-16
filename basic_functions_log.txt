@@ -1,0 +1,9 @@
+Enter the first number -> a:12
+Enter the second number -> b:8
+The sum of the two numbers is: 20.0
+--------------------------------
+Enter a number 6
+6 is an even number
+--------------------------------
+Enter your name: Jim
+Hello Jim! Welcome!

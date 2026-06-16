@@ -1,0 +1,26 @@
+Enter the first number: 8
+Enter the second number: 7
+Choose an operation (+, -, *, /): +
+The result between your first number 8.0 and your second number 7.0 is 15.0
+Do you want to perform another calculation? (yes/no): yes
+Enter the first number: 14
+Enter the second number: 8
+Choose an operation (+, -, *, /): -
+The result between your first number 14.0 and your second number 8.0 is 6.0
+Do you want to perform another calculation? (yes/no): yes
+Enter the first number: 13
+Enter the second number: 5
+Choose an operation (+, -, *, /): *
+The result between your first number 13.0 and your second number 5.0 is 65.0
+Do you want to perform another calculation? (yes/no): yes
+Enter the first number: 7
+Enter the second number: 0
+Choose an operation (+, -, *, /): /
+The result between your first number 7.0 and your second number 0.0 is Error: Division by zero is not allowed.
+Do you want to perform another calculation? (yes/no): yes
+Enter the first number: 9
+Enter the second number: 3
+Choose an operation (+, -, *, /): /
+The result between your first number 9.0 and your second number 3.0 is 3.0
+Do you want to perform another calculation? (yes/no): no
+Thank you for using the simple calculator. Goodbye!

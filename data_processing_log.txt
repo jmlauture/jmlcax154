@@ -1,0 +1,6 @@
+The average grade for Math is 89.2
+The average grade for Science is 80.5
+The average grade for History is 92.7
+
+Warning: Cannot calculate average for the course because the grade list is empty.
+No grades available for English.

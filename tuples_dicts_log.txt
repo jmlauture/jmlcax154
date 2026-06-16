@@ -1,0 +1,22 @@
+The first month of the year is: January
+The last month of the year is: December
+Tuples are immutable, error: 'tuple' object does not support item assignment
+
+--- Student Dictionary ---
+
+All students and grades:
+Lisa: 90
+Bob: 85
+Charlie: 92
+Diana: 88
+James: 97
+
+Updated grade:
+Bob: 93
+
+Formatted student list:
+Lisa: 90
+Bob: 93
+Charlie: 92
+Diana: 88
+James: 97
