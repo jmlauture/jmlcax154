@@ -1,0 +1,20 @@
+=== TASK 2: TESTING SAVINGS ACCOUNT ===
+
+--------------------------------------------------
+
+Deposited 1000.0. New balance is 2000.0
+After $500 deposit (inherited): Savings Account 123456-Sav5 – Owner: Jimmy Lopez, Balance: $2000.0, Interest Rate: 5.00%
+
+--------------------------------------------------
+
+Withdrew 500.0. New balance is 1500.0
+After $200 withdrawal (inherited): Savings Account 123456-Sav5 – Owner: Jimmy Lopez, Balance: $1500.0, Interest Rate: 5.00%
+
+--------------------------------------------------
+
+
+Applying annual interest...
+Interest added: $75.00. New balance is $1575.00
+After applying interest: Savings Account 123456-Sav5 – Owner: Jimmy Lopez, Balance: $1575.0, Interest Rate: 5.00%
+
+==================================================

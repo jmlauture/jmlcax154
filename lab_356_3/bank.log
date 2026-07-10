@@ -1,0 +1,25 @@
+=== TASK 1: TESTING BASE BANK ACCOUNT ===
+New Bank Account - Initialized:  Account 123456 – Owner: Jimmy Lopez, Balance: $1000.00
+
+--------------------------------------------------
+
+Deposited 500.0. New balance is 1500.0
+After $500 deposit: Account 123456 – Owner: Jimmy Lopez, Balance: $1500.00
+
+--------------------------------------------------
+
+Deposit amount must be positive and greater than zero, -50.0 is not valid
+
+--------------------------------------------------
+
+Withdrew 200.0. New balance is 1300.0
+After $200 withdrawal: Account 123456 – Owner: Jimmy Lopez, Balance: $1300.00
+
+--------------------------------------------------
+
+
+Attempting to overdraw...
+Caught Expected Error -> Insufficient funds: Cannot withdraw $2000.00 from account 123456. Available balance: $1300.00.
+Final account balance -  Account 123456 – Owner: Jimmy Lopez, Balance: $1300.00
+
+==================================================
