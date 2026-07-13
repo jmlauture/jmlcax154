@@ -1,0 +1,35 @@
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_1> python3 builtin_usage.py
+....................................
+....................................
+....................................
+
+The random number is: 34
+The square root of 34 is: 5.830951894845301
+The floor of the square root of 34 is: 5
+The integer part of the square root of 34 is: 5
+
+The random number is: 97
+The square root of 97 is: 9.848857801796104
+The floor of the square root of 97 is: 9
+The integer part of the square root of 97 is: 9
+
+The random number is: 89
+The square root of 89 is: 9.433981132056603
+The floor of the square root of 89 is: 9
+The integer part of the square root of 89 is: 9
+
+The platform OS is: Windows
+The platform release is: Release 11
+The Python version is: 3.14.5
+
+###############################################
+
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_1> python3 use_utilities.py
+
+Hello, James!
+The factorial of 5 is 120
+
+###############################################
+
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_1> python3 external_package.py
+200
