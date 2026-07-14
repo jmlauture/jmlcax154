@@ -1,0 +1,81 @@
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_2> python3 string_manipulation_ch.py
+Enter a sentence: The house is located closed to the river bank at the intersection of the two main roads
+Uppercase: THE HOUSE IS LOCATED CLOSED TO THE RIVER BANK AT THE INTERSECTION OF THE TWO MAIN ROADS
+Reversed: sdaor niam owt eht fo noitcesretni eht ta knab revir eht ot desolc detacol si esuoh ehT
+Vowel Count: 29
+Hyphenated: The-house-is-located-closed-to-the-river-bank-at-the-intersection-of-the-two-main-roads
+
+####################################################################
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_2> python3 list_manager.py
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: a
+Enter an integer: 6
+Number added.
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: a
+Enter an integer: 8
+Number added.
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: a
+Enter an integer: 11
+Number added.
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: c
+Current List: [6, 8, 11]
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: b
+Enter the index to remove: 1
+Removed 8
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: c
+Current List: [6, 11]
+
+List Manager
+a. Add a number
+b. Remove a number
+c. Display the list
+d. Quit
+Enter your choice: d
+Goodbye!
+
+####################################################################
+
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_2> python3 age_validator.py
+Enter your age: 15
+Age accepted.
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_2> python3 age_validator.py
+Enter your age: 38
+Age accepted.
+PS C:\Users\pasto\my_github\jmlcax154\lab_356_2> python3 age_validator.py
+Enter your age: 121
+Error: Age must be between 0 and 120.
