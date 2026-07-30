@@ -1,0 +1,12 @@
+Task: Python2 SBA
+Due Date: 2026-07-28
+Status: Pending
+Task: Python class exit survey
+Due Date: 2026-07-28
+Status: Pending
+Task: Use Python Exam Voucher
+Due Date: 2026-08-31
+Status: Pending
+Task: Complete all CANVAS tasks
+Due Date: 2026-07-30
+Status: Pending
